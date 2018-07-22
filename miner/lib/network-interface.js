@@ -6,7 +6,7 @@ const Tx = require('ethereumjs-tx')
 const Vault = require("./vault");
 
 
-var tokenContractJSON = require('../contracts/_0xBitcoinToken.json');
+var tokenContractJSON = require('../contracts/_FreeDom.json');
 
 
 var busySendingSolution = false;
