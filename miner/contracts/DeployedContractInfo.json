@@ -3,12 +3,12 @@
   "networks": {
       "mainnet": {
               "contracts": {
-                "_0xbitcointoken": {"name":"0xBitcoinToken", "blockchain_address":"0xb6ed7644c69416d67b522e20bc294a9a9b405b31"}
+                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0x8297D4EA0d2B9389681Ca7cDB527bf5787a5799D"}
               }
             },
       "testnet": {
               "contracts": {
-                "_0xbitcointoken": {"name":"0xBitcoinToken", "blockchain_address":"0x74960bcac083ed732215229811c8b8a353c7e4ba"}
+                "_FreeDom": {"name":"FreeDomToken", "blockchain_address":"0x8297D4EA0d2B9389681Ca7cDB527bf5787a5799D"}
               }
             } 
     }

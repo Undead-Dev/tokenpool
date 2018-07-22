@@ -25,7 +25,7 @@ var web3 = new Web3( );
 
 var running = true;
 
-console.log('Welcome to 0xBitcoin Miner!')
+console.log('Welcome to FreeDomToken Miner!')
 console.log('Version: ',pjson.version)
 console.log('\n')
 console.log('Type a command to get started.  Type "help" for a list of commands.')
